@@ -19,7 +19,6 @@ for customer in y['customers']:
     temp = pd.json_normalize(customer)
     df = df.append(temp)
 # print(df)
-
 df = pd.DataFrame(df)
 df.to_csv('D:/Hoang/day 2/my_customers.csv', index=False)
 

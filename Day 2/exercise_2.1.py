@@ -1,5 +1,4 @@
 ##### Way 1 (requests)
-
 # import requests
 # from bs4 import BeautifulSoup
 
