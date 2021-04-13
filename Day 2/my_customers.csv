@@ -1,0 +1,4 @@
+id,email,accepts_marketing,created_at,updated_at,first_name,last_name,orders_count,state,total_spent,last_order_id,note,verified_email,multipass_identifier,tax_exempt,phone,tags,last_order_name,currency,accepts_marketing_updated_at,marketing_opt_in_level,tax_exemptions,admin_graphql_api_id
+5123984031914,ctran@ex.com,False,2021-04-13T15:18:25+07:00,2021-04-13T15:39:48+07:00,C,Tran,0,disabled,0.00,,,True,,False,+84333333333,VIP,,VND,2021-04-13T15:18:25+07:00,,[],gid://shopify/Customer/5123984031914
+5123983507626,bpham@ex.com,False,2021-04-13T15:17:39+07:00,2021-04-13T15:40:02+07:00,B,Pham,0,disabled,0.00,,,True,,False,+84987521236,sale,,VND,2021-04-13T15:17:39+07:00,,[],gid://shopify/Customer/5123983507626
+5123982000298,anguyen@gmail.com,False,2021-04-13T15:14:52+07:00,2021-04-13T15:40:18+07:00,A,Nguyen,0,disabled,0.00,,,True,,False,+84321654987,shopper,,VND,2021-04-13T15:15:51+07:00,,[],gid://shopify/Customer/5123982000298
